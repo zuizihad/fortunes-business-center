@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    color: dimgray;
+}
+.process h1 {
+    text-align: center;
+    
+}
+
+.text-highlight {
+    color: orange;
+}
+.top-banner {
+    background-image: url('img/bg/top-banner.png');
+    background-repeat: no-repeat;
+}
+.top-banner img{
+    width: 80%;
+}
+.mid-banner {
+    background-image: url(img/bg/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 100px;
+}
+.mid-banner img {
+    width: 80%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.pay {
+    margin-top: 20px;
+}
+.process {
+    background-image: url(img/bg/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+/* Login page css */
+
+.login-panel {
+    margin-top: 50px;
+}
+
+/* registration page css */
+.card {
+    border-radius: 10px;
+}
+.card img {
+    margin-top: 150px;
+}
+
+/* profile page css */
+.card-panel {
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 250px;
+    text-align: center;
+}
+
+/* policy page css */
+.policy {
+    padding: 10px;
+  
+}
