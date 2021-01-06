@@ -10,6 +10,9 @@ body{
 p {
     color: dimgray;
 }
+.red-text {
+    color: red;
+}
 .card {
     height: 400px;
 }
@@ -73,7 +76,7 @@ p {
     width: 80%;
 }
 .sixth-banner {
-    background-image: url(img/bg/exp-bg.png);
+    background-image: url(img/bg/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -90,7 +93,28 @@ p {
     box-shadow:  -20px 20px 60px #bebebe,
              20px -20px 60px #ffffff;
 }
+.seventh-banner {
+    height: 500px;
+}
 
+.seventh-banner img {
+    width: 80%;
+}
+
+.eighth-banner {
+    height: 500px;
+    background-image: url(img/bg/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.eighth-banner .card {
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow:  -20px 20px 60px #bebebe,
+             20px -20px 60px #ffffff;   
+}
 
 section{
     height: 500px;
@@ -100,6 +124,9 @@ section{
     margin-top: 20px;
 }
 
+.footer-copyright .container {
+    text-align: center;
+}
 
 /* Login page css */
 
