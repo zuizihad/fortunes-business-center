@@ -1,6 +1,11 @@
+@font-face {
+    font-family: 'SolaimanLipi';
+    src: url(fonts/SolaimanLipi_20-04-07.ttf);
+  }
+
 body{
     margin: 0%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: SolaimanLipi;
 }
 p {
     color: dimgray;
